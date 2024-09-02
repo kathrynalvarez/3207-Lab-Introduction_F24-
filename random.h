@@ -1,7 +1,6 @@
-#ifndef random_h
-#define random_h
-#include "print_random.c"
+#ifndef RANDOM_H
+#define RANDOM_H
 
-char randchar();
+int randchar();
 
 #endif
