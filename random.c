@@ -1,6 +1,6 @@
+#include "random.h"
 #include <stdlib.h>
 #include <time.h>
-#include "random.h"
 
 int randchar()
 {
